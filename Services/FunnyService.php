@@ -1,6 +1,6 @@
 <?php
 
-namespace Pierre\Funny\FunnyBundle\Services;
+namespace Pierre\Funny\Services;
 
 
 class FunnyService
