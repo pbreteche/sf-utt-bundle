@@ -1,0 +1,14 @@
+{
+    "name": "pierre/funny-bundle",
+    "description": "C'est une démo pour la formation",
+    "type": "bundle",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Pierre Bretéché",
+            "email": "pbreteche@dawan.fr"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
