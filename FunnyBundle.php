@@ -1,6 +1,6 @@
 <?php
 
-namespace App\FunnyBundle;
+namespace Pierre\Funny\FunnyBundle;
 
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
